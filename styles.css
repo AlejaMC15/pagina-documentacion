@@ -1,0 +1,31 @@
+body{
+    background-color:white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#representantes{
+    text-align: center;
+}
+
+#CiclismoFemeninoenColombia{
+    text-align: center;
+}
+
+hr{
+    color: black;
+}
+
+#ciclismofemenino{
+    text-align: justify;
+    justify-content: center;
+}
+
+.imga{
+    width: 100px;
+    text-align: right;
+}
+
+.cicl{
+    font-size: 25px;
+}
+
